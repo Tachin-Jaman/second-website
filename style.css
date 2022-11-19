@@ -1,0 +1,33 @@
+body{
+  font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+
+.orange{
+  color: orange;
+}
+.headline-color{
+  color: rgb(75, 72, 72);
+}
+.link-button{
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  padding: 8px 10px;
+  border-radius: 10px;
+  color: aliceblue;
+}
+.flexivel-container{
+  display: flex;
+}
+.half-width{
+  width: 60%;
+  margin-left: 3%;
+  margin-top: 5%;
+}
+
+.font-color{
+  color: rgb(104, 98, 98);
+}
+.font-size{
+  font-size: 50px;
+}
